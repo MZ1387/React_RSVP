@@ -1,6 +1,6 @@
 # React_RSVP
 
-A React application that ...
+A React application that creates, updates and deletes guest on an RSVP List.
 
 ## Technologies Used
 
@@ -8,4 +8,4 @@ A React application that ...
 
 ## Concepts Implemented
 
-- Axios
+- State
